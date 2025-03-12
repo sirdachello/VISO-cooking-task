@@ -5,18 +5,23 @@
 Follow these steps to set up and run the project:
 
 1. Clone the Repository
+
    git clone https://github.com/sirdachello/VISO-cooking-task
 
-2. Navigate to the Project Directory
+3. Navigate to the Project Directory
+   
    cd my-app
 
-3. Install Dependencies
+4. Install Dependencies
+
    npm install
 
-4. Start the Development Server
+6. Start the Development Server
+   
    npm run dev
 
-5. Build for Production
+8. Build for Production
+   
    npm run build
 
 ---
